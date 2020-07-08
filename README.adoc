@@ -2,4 +2,4 @@
 
 == Importing dataset
 
-You can import the dataset by executing the commands described in  link:scripts/cypher/import.cypher[import.cypher]
+You can import the dataset by executing the commands described in link:scripts/cypher/import.cypher[import.cypher].
