@@ -1,1 +1,5 @@
 = Neo4j Graph Embeddings
+
+== Importing dataset
+
+include::scripts/cypher/import.cypher[]
