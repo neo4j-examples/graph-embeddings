@@ -10,6 +10,7 @@ neo4j = "*"
 sklearn = "*"
 altair = "*"
 altair-viewer = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.7"
