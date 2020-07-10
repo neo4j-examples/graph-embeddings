@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6004262af70320ed62c0b9fd78b69d3420cb7ad2e2c58fcc9fa3dcc5737eb2e3"
+            "sha256": "efe89c8c1410bb717e70a08f0ec1e1903c7274cd1dc2069a99147036cb899780"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -91,10 +91,10 @@
         },
         "ipykernel": {
             "hashes": [
-                "sha256:120d1e7057824a8a73d8b721725393ca7c6562655cdc1d12652316695c8b04c0",
-                "sha256:ca45d173ae9cd4ed8a57980529e1d8d39ea56df5358b8608dbe45733023d8df4"
+                "sha256:0a5f1fc6f63241b9710b5960d314ffe44d8a18bf6674e3f28d2542b192fa318c",
+                "sha256:89dc4bd19c7781f6d7eef0e666c59ce57beac56bb39b511544a71397b7b31cbb"
             ],
-            "version": "==5.3.1"
+            "version": "==5.3.2"
         },
         "ipython": {
             "hashes": [
@@ -485,6 +485,7 @@
                 "sha256:eb46d8b5947ca27b0bc972cecfba8130f088a83ab3d08c1a6033d9070b3046b3",
                 "sha256:fff15df01bef1243468be60c55178ed7576270b200aab08a7ffd5b8e0bbc340c"
             ],
+            "index": "pypi",
             "version": "==1.5.1"
         },
         "send2trash": {

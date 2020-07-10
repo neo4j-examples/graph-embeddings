@@ -11,6 +11,7 @@ sklearn = "*"
 altair = "*"
 altair-viewer = "*"
 jupyter = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"

@@ -1,6 +1,6 @@
 CREATE CONSTRAINT ON (p:Place) ASSERT p.name IS UNIQUE;
 
-USING PERIODIC COMMIT 1000
+:auto USING PERIODIC COMMIT 1000
 LOAD CSV WITH HEADERS FROM "https://github.com/neo4j-examples/graph-embeddings/raw/main/data/roads.csv"
 AS row
 
