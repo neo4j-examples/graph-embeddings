@@ -1,6 +1,6 @@
 = Neo4j Graph Embeddings
 
-This repository goes with the Applied Graph Embeddings tutorial, which you can find at https://neo4j.com/developer/applied-graph-embeddings/
+This repository goes with the Applied Graph Embeddings tutorial, which you can find at https://neo4j.com/developer/applied-graph-embeddings/[neo4j.com/developer/applied-graph-embeddings^]
 
 == Importing dataset
 
