@@ -1,5 +1,7 @@
 = Neo4j Graph Embeddings
 
+This repository goes with the Applied Graph Embeddings tutorial, which you can find at https://neo4j.com/developer/applied-graph-embeddings/
+
 == Importing dataset
 
 You can import the dataset by executing the commands described in link:scripts/cypher/import.cypher[import.cypher], using https://neo4j.com/developer/neo4j-browser/[Neo4j Browser^] or https://neo4j.com/docs/operations-manual/current/tools/cypher-shell/[Cypher Shell^].
